@@ -17,7 +17,7 @@ DESCRIPTION = "Tools for automatically prefetching related objects in Django and
 URL = "https://github.com/GeeWee/django-auto-prefetching"
 EMAIL = "gustavwengel@gmail.com"
 AUTHOR = "Gustav Wengel"
-REQUIRES_PYTHON = ">=3.7.0"
+REQUIRES_PYTHON = ">=3.6.0"
 VERSION = "0.1.6"
 
 # What packages are required for this module to be executed?
